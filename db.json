@@ -1,0 +1,39 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "productName": "Laptop",
+            "categoryName" : "Tecnology",
+            "categoryId": 1,
+            "unitPrice": 5000.99
+        },
+        {
+            "id": "2",
+            "categoryName" : "Tecnology",
+            "productName": "Mouse",
+            "categoryId": 2,
+            "unitPrice": 50
+        },
+        {
+            "id": "3",
+            "categoryName" : "Beverages",
+            "productName": "Water",
+            "categoryId": 3,
+            "unitPrice": 0.99
+        }
+    ],
+    
+    "categories": [
+        {
+            "id": "1",
+            "categoryName" : "Tecnology"
+        },
+        {
+            "id": "2",
+            "categoryName" : "Beverages"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
